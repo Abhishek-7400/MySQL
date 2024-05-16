@@ -32,5 +32,4 @@ DROP DATABASE database_name;
 ```
 DROP DATABASE Students;
 ```
-```
 
