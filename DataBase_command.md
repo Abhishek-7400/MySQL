@@ -24,3 +24,13 @@ SELECT DATABASE();
 ```
 ## if no any database selected it will return "NULL".
 
+# To delete a database
+```
+DROP DATABASE database_name;
+```
+## example
+```
+DROP DATABASE Students;
+```
+```
+
