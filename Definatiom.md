@@ -19,4 +19,11 @@ Eg. Oracle, MySql, MongoDB etc.
 3. They are designed to handle large amounts of unstructured or semi-structured data and can handle dynamic changes to the data model.
 4. NoSQL databases use JSON (JavaScript Object Notation), XML, YAML.
 5. Popular examples of NoSql databases include MongoDB, BigTable, Redis, etc.
+# Advatages of MySQl
+1. Cross Platform or multiplatform software(we can run).
+2. Used with Multiple Languages Python, C#, PHP, NodeJS, etc.
+3. MySql is open source Software and easy to use.
+4. MySql is a RDBMS.
+5. The Mysql Database server is fast, reliable, Scalable and easy to use. 
+   
 
