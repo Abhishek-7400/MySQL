@@ -23,3 +23,7 @@ CREATE TABLE Student_Details (
 1. String
 2. Numeric
 3. Date & Time
+
+# 1. Numeric Types
+. INT: A normal-sized integer that can be signed or unsigned. It typically ranges from -2147483648 to 2147483647.
+. BIGINT: A large integer that can be signed or unsigned. It typically ranges from -9223372036854775808 to 9223372036854775807.
